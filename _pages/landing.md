@@ -9,9 +9,9 @@ header:
       url: "/contact/"
 excerpt: >
   Data Engineer \| Data Analyst \| Big Data \| Machine Learning \| AI<br />
-  <small><a href="/year-archive/">Blog</a></small> \|
-  <small><a href="/on-demand-help/">Consulting</a></small> \|
-  <small><a href="/interview-prep/">Interview Prep</a></small>
+  <small><a url="/year-archive/">Blog</a></small> \|
+  <small><a url="/on-demand-help/">Consulting</a></small> \|
+
 feature_row:
   - image_path: /assets/images/landing/interview.jpg
     alt: "Prepare for Software Engineering Interviews"
