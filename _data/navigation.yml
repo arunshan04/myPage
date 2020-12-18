@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Blog Posts"
     url: /year-archive/
-  - title: "Interview Prep"
-    url: /interview-prep/
-  - title: "Consulting"
-    url: /on-demand-help/
+  # - title: "Interview Prep"
+  #   url: /interview-prep/
+  # - title: "Consulting"
+  #   url: /on-demand-help/
   - title: "Contact"
     url: /contact/
   - title: "Categories"
