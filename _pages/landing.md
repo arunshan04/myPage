@@ -8,7 +8,7 @@ header:
     - label: "Get in touch"
       url: "/contact/"
 excerpt: >
-  Software Engineer \| Mentor<br />
+  Data Engineer \| Data Analyst \| Big Data \| Machine Learning \| AI<br />
   <small><a href="/year-archive/">Blog</a></small> \|
   <small><a href="/on-demand-help/">Consulting</a></small> \|
   <small><a href="/interview-prep/">Interview Prep</a></small>
