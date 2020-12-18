@@ -1,1 +1,1 @@
-# Arun Shanmugasundaram
+A GitHub Pages website where I (will) write about technology and coding in general.

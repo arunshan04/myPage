@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# From this awesome post: http://kvz.io/blog/2013/11/21/bash-best-practices/
+# and also http://bash3boilerplate.sh/
+# Exit on error. Append "|| true" if you expect an error.
+set -o errexit
+# Exit on error inside any functions or subshells.
+set -o errtrace
+# Do not allow use of undefined vars. Use ${VAR:-} to use an undefined VAR
+set -o nounset
+# Catch the error in case mysqldump fails (but gzip succeeds) in `mysqldump |gzip`
+set -o pipefail
+# To trace what gets executed. Useful for debugging.
+set -o xtrace
+
+bundle install
+
+bundle exec jekyll serve --drafts
