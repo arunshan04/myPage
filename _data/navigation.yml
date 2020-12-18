@@ -12,8 +12,8 @@ main:
     url: /contact/
   - title: "Categories"
     url: /categories/
-  - title: "Other Blogs"
-    url: https://visualkrafts.wordpress.com/
+  # - title: "Other Blogs"
+  #   url: https://visualkrafts.wordpress.com/
   - title: "Tags"
     url: /tags/
   # - title: "Pages"
