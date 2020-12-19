@@ -49,4 +49,4 @@ feature_row:
 
 {% include feature_row %}
 
-<small>Cover image by Luca Bravo on Unsplash</small>
+<small>Cover image by </small>
